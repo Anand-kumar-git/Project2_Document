@@ -1,4 +1,5 @@
 # Project: TrendStore
+
 ## Overview
 This project demonstrates a complete CI/CD pipeline for containerized application deployment using Docker, Terraform, AWS EKS (Kubernetes), DockerHub, GitHub, Jenkins, and monitoring with Prometheus and Grafana.
 
@@ -72,6 +73,13 @@ The workflow includes:
   - Pod and application status  
   - Resource utilization (CPU, memory)  
 - Set up Grafana dashboards to easily track performance and uptime  
+
+---
+
+## Documentation & Screenshots
+All deployment steps, commands, and screenshots are compiled in a PDF document.  
+
+👉 [Click here to view/download the project document](https://github.com/Anand-kumar-git/Project2_Document/raw/main/Project%20TrendStore.pdf)  
 
 ---
 
